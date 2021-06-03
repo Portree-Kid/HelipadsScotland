@@ -1,0 +1,1477 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-05-15T10:55:13Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43281058",
+        "aeroway": "helipad",
+        "name": "Ninewells Hospital Helipad",
+        "source": "yahoo",
+        "@timestamp": "2021-05-13T21:18:34Z",
+        "@version": "3",
+        "@changeset": "104659536",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.0420355,
+              56.462512
+            ],
+            [
+              -3.0420127,
+              56.4624462
+            ],
+            [
+              -3.0419522,
+              56.4623881
+            ],
+            [
+              -3.0418605,
+              56.4623442
+            ],
+            [
+              -3.0417478,
+              56.4623194
+            ],
+            [
+              -3.0416267,
+              56.4623163
+            ],
+            [
+              -3.0415104,
+              56.4623354
+            ],
+            [
+              -3.0414119,
+              56.4623745
+            ],
+            [
+              -3.0413432,
+              56.4624279
+            ],
+            [
+              -3.0413093,
+              56.4624907
+            ],
+            [
+              -3.0413136,
+              56.4625562
+            ],
+            [
+              -3.0413557,
+              56.4626175
+            ],
+            [
+              -3.0414311,
+              56.462668
+            ],
+            [
+              -3.041532,
+              56.4627025
+            ],
+            [
+              -3.0416475,
+              56.4627173
+            ],
+            [
+              -3.0417655,
+              56.4627108
+            ],
+            [
+              -3.0418735,
+              56.4626837
+            ],
+            [
+              -3.0419618,
+              56.4626377
+            ],
+            [
+              -3.0420178,
+              56.4625783
+            ],
+            [
+              -3.0420355,
+              56.462512
+            ]
+          ]
+        ]
+      },
+      "id": "way/43281058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/73413378",
+        "aeroway": "helipad",
+        "alt_name": "ARI",
+        "name": "Aberdeen Royal Infirmary",
+        "@timestamp": "2020-04-10T17:01:47Z",
+        "@version": "4",
+        "@changeset": "83375758",
+        "@user": "Arthtoach",
+        "@uid": "3316592"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.1351965,
+              57.152526
+            ],
+            [
+              -2.1351357,
+              57.152272
+            ],
+            [
+              -2.1346609,
+              57.1523055
+            ],
+            [
+              -2.1347217,
+              57.1525595
+            ],
+            [
+              -2.1351965,
+              57.152526
+            ]
+          ]
+        ]
+      },
+      "id": "way/73413378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104496351",
+        "aeroway": "helipad",
+        "name": "Lorn and Islands Hospitall Helipad",
+        "@timestamp": "2021-05-14T15:41:24Z",
+        "@version": "3",
+        "@changeset": "104694290",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.4746243,
+              56.3995866
+            ],
+            [
+              -5.4747007,
+              56.3995805
+            ],
+            [
+              -5.47477,
+              56.3995616
+            ],
+            [
+              -5.4748252,
+              56.3995317
+            ],
+            [
+              -5.4748609,
+              56.3994938
+            ],
+            [
+              -5.4748735,
+              56.3994478
+            ],
+            [
+              -5.4748573,
+              56.3994021
+            ],
+            [
+              -5.4748142,
+              56.3993621
+            ],
+            [
+              -5.4747493,
+              56.3993326
+            ],
+            [
+              -5.4746702,
+              56.3993168
+            ],
+            [
+              -5.474586,
+              56.3993168
+            ],
+            [
+              -5.4745069,
+              56.3993325
+            ],
+            [
+              -5.4744419,
+              56.399362
+            ],
+            [
+              -5.4743987,
+              56.3994019
+            ],
+            [
+              -5.4743824,
+              56.3994476
+            ],
+            [
+              -5.4743928,
+              56.39949
+            ],
+            [
+              -5.4744264,
+              56.3995284
+            ],
+            [
+              -5.47448,
+              56.3995592
+            ],
+            [
+              -5.4745482,
+              56.3995793
+            ],
+            [
+              -5.4746243,
+              56.3995866
+            ]
+          ]
+        ]
+      },
+      "id": "way/104496351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146770557",
+        "aeroway": "helipad",
+        "name": "Borders General Hospital Helipad",
+        "ref": "Borders General Hospital",
+        "@timestamp": "2021-05-14T15:41:24Z",
+        "@version": "2",
+        "@changeset": "104694290",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.7420487,
+              55.5961365
+            ],
+            [
+              -2.7420386,
+              55.5961546
+            ],
+            [
+              -2.7420549,
+              55.5961767
+            ],
+            [
+              -2.7420941,
+              55.5961859
+            ],
+            [
+              -2.7421071,
+              55.596185
+            ],
+            [
+              -2.7421334,
+              55.5961767
+            ],
+            [
+              -2.7421496,
+              55.5961546
+            ],
+            [
+              -2.7421382,
+              55.5961355
+            ],
+            [
+              -2.7421334,
+              55.5961324
+            ],
+            [
+              -2.7420941,
+              55.5961232
+            ],
+            [
+              -2.7420662,
+              55.5961297
+            ],
+            [
+              -2.7420549,
+              55.5961324
+            ],
+            [
+              -2.7420487,
+              55.5961365
+            ]
+          ]
+        ]
+      },
+      "id": "way/146770557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199728117",
+        "aeroway": "helipad",
+        "name": "Lochgilphead, Argyll and Bute Hospitall Helipad",
+        "source": "Bing",
+        "@timestamp": "2021-05-13T21:18:34Z",
+        "@version": "3",
+        "@changeset": "104659536",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.4209633,
+              56.0401466
+            ],
+            [
+              -5.4210603,
+              56.0399977
+            ],
+            [
+              -5.4207855,
+              56.0399418
+            ],
+            [
+              -5.4206885,
+              56.0400907
+            ],
+            [
+              -5.4209633,
+              56.0401466
+            ]
+          ]
+        ]
+      },
+      "id": "way/199728117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207641238",
+        "aeroway": "helipad",
+        "name": "St Brendan's Hospital Helipad",
+        "@timestamp": "2021-05-14T15:41:24Z",
+        "@version": "2",
+        "@changeset": "104694290",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.4982149,
+              56.952053
+            ],
+            [
+              -7.498309,
+              56.9519935
+            ],
+            [
+              -7.4983221,
+              56.9519394
+            ],
+            [
+              -7.498272,
+              56.951876
+            ],
+            [
+              -7.4981731,
+              56.9518406
+            ],
+            [
+              -7.4980525,
+              56.9518397
+            ],
+            [
+              -7.4979478,
+              56.9518762
+            ],
+            [
+              -7.4979032,
+              56.9519232
+            ],
+            [
+              -7.4979051,
+              56.9519839
+            ],
+            [
+              -7.4979729,
+              56.9520408
+            ],
+            [
+              -7.4980383,
+              56.9520612
+            ],
+            [
+              -7.4981288,
+              56.9520676
+            ],
+            [
+              -7.4982149,
+              56.952053
+            ]
+          ]
+        ]
+      },
+      "id": "way/207641238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207923965",
+        "aeroway": "helipad",
+        "name": "Golden Jubilee National Hospital Helipad",
+        "surface": "concrete",
+        "@timestamp": "2021-05-13T21:18:34Z",
+        "@version": "2",
+        "@changeset": "104659536",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.4233464,
+              55.9044917
+            ],
+            [
+              -4.4232467,
+              55.9044768
+            ],
+            [
+              -4.4231438,
+              55.9044811
+            ],
+            [
+              -4.4230491,
+              55.9045041
+            ],
+            [
+              -4.4229731,
+              55.9045433
+            ],
+            [
+              -4.4229243,
+              55.9045942
+            ],
+            [
+              -4.4229079,
+              55.9046513
+            ],
+            [
+              -4.4229259,
+              55.9047083
+            ],
+            [
+              -4.4229762,
+              55.9047588
+            ],
+            [
+              -4.4230533,
+              55.9047972
+            ],
+            [
+              -4.4231425,
+              55.9048185
+            ],
+            [
+              -4.4232389,
+              55.9048245
+            ],
+            [
+              -4.4233343,
+              55.9048147
+            ],
+            [
+              -4.4234206,
+              55.9047899
+            ],
+            [
+              -4.4234906,
+              55.9047523
+            ],
+            [
+              -4.4235367,
+              55.9047072
+            ],
+            [
+              -4.4235549,
+              55.9046563
+            ],
+            [
+              -4.4235434,
+              55.9046048
+            ],
+            [
+              -4.4235032,
+              55.904558
+            ],
+            [
+              -4.4234386,
+              55.9045207
+            ],
+            [
+              -4.4233464,
+              55.9044917
+            ]
+          ]
+        ]
+      },
+      "id": "way/207923965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/333575809",
+        "aeroway": "helipad",
+        "name": "Gilbert Bain Hospitall Helipad",
+        "@timestamp": "2021-05-14T15:41:24Z",
+        "@version": "3",
+        "@changeset": "104694290",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.1609741,
+              60.1511289
+            ],
+            [
+              -1.1610149,
+              60.1511439
+            ],
+            [
+              -1.1610633,
+              60.1511511
+            ],
+            [
+              -1.1611139,
+              60.1511499
+            ],
+            [
+              -1.1611606,
+              60.1511403
+            ],
+            [
+              -1.1611982,
+              60.1511234
+            ],
+            [
+              -1.1612222,
+              60.1511012
+            ],
+            [
+              -1.1612299,
+              60.1510763
+            ],
+            [
+              -1.1612215,
+              60.1510531
+            ],
+            [
+              -1.1611988,
+              60.1510324
+            ],
+            [
+              -1.1611642,
+              60.1510163
+            ],
+            [
+              -1.1611212,
+              60.1510065
+            ],
+            [
+              -1.1610741,
+              60.1510039
+            ],
+            [
+              -1.1610277,
+              60.1510088
+            ],
+            [
+              -1.1609868,
+              60.1510207
+            ],
+            [
+              -1.1609556,
+              60.1510384
+            ],
+            [
+              -1.1609371,
+              60.1510601
+            ],
+            [
+              -1.1609333,
+              60.1510836
+            ],
+            [
+              -1.1609458,
+              60.151108
+            ],
+            [
+              -1.1609741,
+              60.1511289
+            ]
+          ]
+        ]
+      },
+      "id": "way/333575809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/606820819",
+        "aeroway": "helipad",
+        "name": "Dumfries and Galloway Royal Infirmary Helipad",
+        "@timestamp": "2020-04-07T18:33:28Z",
+        "@version": "2",
+        "@changeset": "83213312",
+        "@user": "Arthtoach",
+        "@uid": "3316592"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.6612066,
+              55.0605666
+            ],
+            [
+              -3.6608756,
+              55.0603632
+            ],
+            [
+              -3.6607004,
+              55.0604541
+            ],
+            [
+              -3.660538,
+              55.0605434
+            ],
+            [
+              -3.660869,
+              55.0607468
+            ],
+            [
+              -3.6612066,
+              55.0605666
+            ]
+          ]
+        ]
+      },
+      "id": "way/606820819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/765546974",
+        "aeroway": "helipad",
+        "building:levels": "14",
+        "description": "Pad named separate to hospital",
+        "lit": "yes",
+        "name": "Southen General Hospital Helipad",
+        "@timestamp": "2020-08-23T18:46:30Z",
+        "@version": "5",
+        "@changeset": "89818509",
+        "@user": "paximperia",
+        "@uid": "8452377"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.3425355,
+              55.8617227
+            ],
+            [
+              -4.3424969,
+              55.8616954
+            ],
+            [
+              -4.3422792,
+              55.8615411
+            ],
+            [
+              -4.342101,
+              55.8616193
+            ],
+            [
+              -4.3419487,
+              55.8616861
+            ],
+            [
+              -4.3422146,
+              55.8618678
+            ],
+            [
+              -4.3425355,
+              55.8617227
+            ]
+          ]
+        ]
+      },
+      "id": "way/765546974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790462343",
+        "aeroway": "helipad",
+        "name": "Raigmore Hospital Helipad",
+        "@timestamp": "2021-05-13T21:18:34Z",
+        "@version": "2",
+        "@changeset": "104659536",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.19488,
+              57.4765571
+            ],
+            [
+              -4.194588,
+              57.4763195
+            ],
+            [
+              -4.1944384,
+              57.4763727
+            ],
+            [
+              -4.1943856,
+              57.4763914
+            ],
+            [
+              -4.1943324,
+              57.4764104
+            ],
+            [
+              -4.1941566,
+              57.4764728
+            ],
+            [
+              -4.1944487,
+              57.4767104
+            ],
+            [
+              -4.19488,
+              57.4765571
+            ]
+          ]
+        ]
+      },
+      "id": "way/790462343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802583709",
+        "aeroway": "helipad",
+        "lit": "no",
+        "name": "Royal Infirmary of Edinburgh (Little France) Helipad",
+        "@timestamp": "2021-05-14T15:41:24Z",
+        "@version": "2",
+        "@changeset": "104694290",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.1362783,
+              55.9246132
+            ],
+            [
+              -3.1363033,
+              55.9245913
+            ],
+            [
+              -3.1363142,
+              55.9245661
+            ],
+            [
+              -3.1363099,
+              55.9245402
+            ],
+            [
+              -3.1362908,
+              55.9245165
+            ],
+            [
+              -3.1362777,
+              55.9245087
+            ],
+            [
+              -3.1362591,
+              55.9244976
+            ],
+            [
+              -3.1362181,
+              55.9244855
+            ],
+            [
+              -3.1361723,
+              55.9244815
+            ],
+            [
+              -3.1361267,
+              55.924486
+            ],
+            [
+              -3.1360861,
+              55.9244986
+            ],
+            [
+              -3.136055,
+              55.9245179
+            ],
+            [
+              -3.1360368,
+              55.9245418
+            ],
+            [
+              -3.1360335,
+              55.9245677
+            ],
+            [
+              -3.1360453,
+              55.9245928
+            ],
+            [
+              -3.1360711,
+              55.9246144
+            ],
+            [
+              -3.136108,
+              55.9246302
+            ],
+            [
+              -3.136152,
+              55.9246384
+            ],
+            [
+              -3.1361984,
+              55.9246381
+            ],
+            [
+              -3.1362421,
+              55.9246294
+            ],
+            [
+              -3.1362783,
+              55.9246132
+            ]
+          ]
+        ]
+      },
+      "id": "way/802583709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/923130060",
+        "aeroway": "helipad",
+        "name": "Western Isles Hospital Helipad",
+        "ref": "STORNOWAY, Western Isles Hospital",
+        "@timestamp": "2021-05-13T20:13:36Z",
+        "@version": "2",
+        "@changeset": "104657533",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.3818111,
+              58.2217678
+            ],
+            [
+              -6.3817917,
+              58.2217228
+            ],
+            [
+              -6.3817443,
+              58.2216841
+            ],
+            [
+              -6.3816747,
+              58.2216563
+            ],
+            [
+              -6.3815912,
+              58.2216427
+            ],
+            [
+              -6.3815038,
+              58.2216449
+            ],
+            [
+              -6.3814232,
+              58.2216627
+            ],
+            [
+              -6.381359,
+              58.221694
+            ],
+            [
+              -6.3813191,
+              58.221735
+            ],
+            [
+              -6.3813081,
+              58.2217807
+            ],
+            [
+              -6.3813274,
+              58.2218256
+            ],
+            [
+              -6.3813748,
+              58.2218643
+            ],
+            [
+              -6.3814444,
+              58.2218921
+            ],
+            [
+              -6.381528,
+              58.2219058
+            ],
+            [
+              -6.3816153,
+              58.2219035
+            ],
+            [
+              -6.3816959,
+              58.2218857
+            ],
+            [
+              -6.3817601,
+              58.2218544
+            ],
+            [
+              -6.3818001,
+              58.2218134
+            ],
+            [
+              -6.3818111,
+              58.2217678
+            ]
+          ]
+        ]
+      },
+      "id": "way/923130060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/934665512",
+        "aeroway": "helipad",
+        "lit": "yes",
+        "name": "The Robert Black Memorial Helipad",
+        "operator": "South Kintyre Developement Trust",
+        "surface": "concrete",
+        "@timestamp": "2021-04-24T12:50:33Z",
+        "@version": "1",
+        "@changeset": "103535609",
+        "@user": "Highlander1701",
+        "@uid": "10107485"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.6057742,
+              55.4201597
+            ],
+            [
+              -5.6057184,
+              55.4198808
+            ],
+            [
+              -5.6052053,
+              55.419914
+            ],
+            [
+              -5.6052307,
+              55.4200408
+            ],
+            [
+              -5.6052611,
+              55.4201928
+            ],
+            [
+              -5.6057742,
+              55.4201597
+            ]
+          ]
+        ]
+      },
+      "id": "way/934665512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43281058",
+        "aeroway": "helipad",
+        "name": "Ninewells Hospital Helipad",
+        "source": "yahoo",
+        "@timestamp": "2021-05-13T21:18:34Z",
+        "@version": "3",
+        "@changeset": "104659536",
+        "@user": "Portree Kid",
+        "@uid": "67885",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0416724,
+          56.4625168
+        ]
+      },
+      "id": "way/43281058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/73413378",
+        "aeroway": "helipad",
+        "alt_name": "ARI",
+        "name": "Aberdeen Royal Infirmary",
+        "@timestamp": "2020-04-10T17:01:47Z",
+        "@version": "4",
+        "@changeset": "83375758",
+        "@user": "Arthtoach",
+        "@uid": "3316592",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1349287,
+          57.1524158
+        ]
+      },
+      "id": "way/73413378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104496351",
+        "aeroway": "helipad",
+        "name": "Lorn and Islands Hospitall Helipad",
+        "@timestamp": "2021-05-14T15:41:24Z",
+        "@version": "3",
+        "@changeset": "104694290",
+        "@user": "Portree Kid",
+        "@uid": "67885",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.474628,
+          56.3994517
+        ]
+      },
+      "id": "way/104496351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146770557",
+        "aeroway": "helipad",
+        "name": "Borders General Hospital Helipad",
+        "ref": "Borders General Hospital",
+        "@timestamp": "2021-05-14T15:41:24Z",
+        "@version": "2",
+        "@changeset": "104694290",
+        "@user": "Portree Kid",
+        "@uid": "67885",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7420941,
+          55.5961545
+        ]
+      },
+      "id": "way/146770557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199728117",
+        "aeroway": "helipad",
+        "name": "Lochgilphead, Argyll and Bute Hospitall Helipad",
+        "source": "Bing",
+        "@timestamp": "2021-05-13T21:18:34Z",
+        "@version": "3",
+        "@changeset": "104659536",
+        "@user": "Portree Kid",
+        "@uid": "67885",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4208744,
+          56.0400442
+        ]
+      },
+      "id": "way/199728117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207641238",
+        "aeroway": "helipad",
+        "name": "St Brendan's Hospital Helipad",
+        "@timestamp": "2021-05-14T15:41:24Z",
+        "@version": "2",
+        "@changeset": "104694290",
+        "@user": "Portree Kid",
+        "@uid": "67885",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4981126,
+          56.9519536
+        ]
+      },
+      "id": "way/207641238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207923965",
+        "aeroway": "helipad",
+        "name": "Golden Jubilee National Hospital Helipad",
+        "surface": "concrete",
+        "@timestamp": "2021-05-13T21:18:34Z",
+        "@version": "2",
+        "@changeset": "104659536",
+        "@user": "Portree Kid",
+        "@uid": "67885",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4232314,
+          55.9046506
+        ]
+      },
+      "id": "way/207923965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/333575809",
+        "aeroway": "helipad",
+        "name": "Gilbert Bain Hospitall Helipad",
+        "@timestamp": "2021-05-14T15:41:24Z",
+        "@version": "3",
+        "@changeset": "104694290",
+        "@user": "Portree Kid",
+        "@uid": "67885",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1610816,
+          60.1510775
+        ]
+      },
+      "id": "way/333575809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/606820819",
+        "aeroway": "helipad",
+        "name": "Dumfries and Galloway Royal Infirmary Helipad",
+        "@timestamp": "2020-04-07T18:33:28Z",
+        "@version": "2",
+        "@changeset": "83213312",
+        "@user": "Arthtoach",
+        "@uid": "3316592",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6608723,
+          55.060555
+        ]
+      },
+      "id": "way/606820819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727703901",
+        "aeroway": "helipad",
+        "name": "Galloway Community Hospital Helipad",
+        "@timestamp": "2021-05-15T10:14:40Z",
+        "@version": "3",
+        "@changeset": "104725176",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.020656,
+          54.8990294
+        ]
+      },
+      "id": "node/727703901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/765546974",
+        "aeroway": "helipad",
+        "building:levels": "14",
+        "description": "Pad named separate to hospital",
+        "lit": "yes",
+        "name": "Southen General Hospital Helipad",
+        "@timestamp": "2020-08-23T18:46:30Z",
+        "@version": "5",
+        "@changeset": "89818509",
+        "@user": "paximperia",
+        "@uid": "8452377",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3422421,
+          55.8617045
+        ]
+      },
+      "id": "way/765546974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790462343",
+        "aeroway": "helipad",
+        "name": "Raigmore Hospital Helipad",
+        "@timestamp": "2021-05-13T21:18:34Z",
+        "@version": "2",
+        "@changeset": "104659536",
+        "@user": "Portree Kid",
+        "@uid": "67885",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1945183,
+          57.4765149
+        ]
+      },
+      "id": "way/790462343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802583709",
+        "aeroway": "helipad",
+        "lit": "no",
+        "name": "Royal Infirmary of Edinburgh (Little France) Helipad",
+        "@timestamp": "2021-05-14T15:41:24Z",
+        "@version": "2",
+        "@changeset": "104694290",
+        "@user": "Portree Kid",
+        "@uid": "67885",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1361739,
+          55.92456
+        ]
+      },
+      "id": "way/802583709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/810603236",
+        "aeroway": "helipad",
+        "name": "Ayr & Ailsa Hospitals Helipad",
+        "@timestamp": "2021-05-13T20:13:36Z",
+        "@version": "3",
+        "@changeset": "104657533",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.598201,
+          55.4307547
+        ]
+      },
+      "id": "node/810603236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/923130060",
+        "aeroway": "helipad",
+        "name": "Western Isles Hospital Helipad",
+        "ref": "STORNOWAY, Western Isles Hospital",
+        "@timestamp": "2021-05-13T20:13:36Z",
+        "@version": "2",
+        "@changeset": "104657533",
+        "@user": "Portree Kid",
+        "@uid": "67885",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3815596,
+          58.2217742
+        ]
+      },
+      "id": "way/923130060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/934665512",
+        "aeroway": "helipad",
+        "lit": "yes",
+        "name": "The Robert Black Memorial Helipad",
+        "operator": "South Kintyre Developement Trust",
+        "surface": "concrete",
+        "@timestamp": "2021-04-24T12:50:33Z",
+        "@version": "1",
+        "@changeset": "103535609",
+        "@user": "Highlander1701",
+        "@uid": "10107485",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6054898,
+          55.4200368
+        ]
+      },
+      "id": "way/934665512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1723797456",
+        "aeroway": "helipad",
+        "name": "Royal Alexandra Hospital Helipad",
+        "@timestamp": "2021-05-13T20:13:36Z",
+        "@version": "2",
+        "@changeset": "104657533",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4351318,
+          55.8343392
+        ]
+      },
+      "id": "node/1723797456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2195698695",
+        "aeroway": "helipad",
+        "name": "Doctor Mackinnon Memorial Hospital Heliport",
+        "@timestamp": "2021-05-13T19:48:30Z",
+        "@version": "2",
+        "@changeset": "104656747",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9102149,
+          57.246421
+        ]
+      },
+      "id": "node/2195698695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6150141905",
+        "aeroway": "helipad",
+        "name": "Royal Hospital for Children and Young People Helipad",
+        "@timestamp": "2021-05-13T20:13:36Z",
+        "@version": "2",
+        "@changeset": "104657533",
+        "@user": "Portree Kid",
+        "@uid": "67885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1371546,
+          55.9209699
+        ]
+      },
+      "id": "node/6150141905"
+    }
+  ]
+}

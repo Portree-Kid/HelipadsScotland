@@ -1,0 +1,23 @@
+area["name"="Scotland"]->.boundaryarea;
+(
+  node[amenity=hospital] (area.boundaryarea); 
+  way[amenity=hospital] (area.boundaryarea);   
+  area[amenity=hospital] (area.boundaryarea);              
+  rel[amenity=hospital] (area.boundaryarea);              
+)->.hospitals;
+(
+  node[aeroway=helipad]["name"] ({{bbox}});              
+  way[aeroway=helipad]["name"] ({{bbox}});              
+)->.helipads;
+
+(
+  node.helipads(around.hospitals:300);
+  way.helipads(around.hospitals:300);
+  area.helipads(around.hospitals:300);
+)->.hospitalsNearHelipads;
+
+// determine banks far from police stations
+(.hospitalsNearHelipads ;);
+
+// return node, ways, relations as determined above
+(._;>;); out center meta;
